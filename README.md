@@ -2,6 +2,7 @@
 
 This is a rather complex GraphViz DOT sample containing rather many hints 
 for those interested in documenting his/her code via GraphViz DOT. 
+See: http://darmawan-salihun.blogspot.com/2016/06/graphviz-tutorial-for-uninitiated.html for the PNG result.
 
 # Hints:
 
