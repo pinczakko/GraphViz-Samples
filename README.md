@@ -1,10 +1,10 @@
-## Complex GraphViz DOT Sample
+# Complex GraphViz DOT Sample
 
 This is a rather complex GraphViz DOT sample containing rather many hints 
 for those interested in documenting his/her code via GraphViz DOT. 
 See: http://darmawan-salihun.blogspot.com/2016/06/graphviz-tutorial-for-uninitiated.html for the PNG result.
 
-# Using The Graphviz Code
+## Using The Graphviz Code
 
 - Clone with Git
 ``` $ git clone https://github.com/pinczakko/GraphViz-Samples.git ```
@@ -17,7 +17,7 @@ See: http://darmawan-salihun.blogspot.com/2016/06/graphviz-tutorial-for-uninitia
 
 - The output PNG file is __complex.png__. You can view it with any image viewer. 
 
-# Hints:
+## Hints:
 
 - http://graphviz.org/content/node-shapes#html
 - http://graphviz.org/Gallery/directed/cluster.html 
@@ -26,6 +26,6 @@ See: http://darmawan-salihun.blogspot.com/2016/06/graphviz-tutorial-for-uninitia
 - http://edutechwiki.unige.ch/en/Graphviz
 - http://www.tonyballantyne.com/graphs.html
 
-# Addendum 
+## Addendum 
 
 This should be enough for you to start your journey using GraphViz for useful stuffs.
